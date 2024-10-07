@@ -4,7 +4,7 @@ Hi 👋 My name is Teerapat suksanghuan
 Web Developer 
 -------------  
 
-I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...  
+I graduated from Rajamangala University of Technology, majoring in Computer Engineering. I have 5 years of experience in web development. I know how to control a team to work together efficiently under various conditions. The work will take into account correct work, less time, user experience, high efficiency, in that order, which all depends on the situation. 
 
 * 🌍  I'm based in Thailand - Samutsakhon
 * ✉️  You can contact me at [teerapat-yut@hotmail.com](mailto:teerapat-yut@hotmail.com)
